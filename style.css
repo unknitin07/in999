@@ -53,7 +53,7 @@ body {
 .logo-text {
   font-size: 1.7rem;
   font-weight: 800;
-  background: linear-gradient(90deg, #4fc3f7, #3366cc, #4fc3f7);
+  background: linear-gradient(90deg, #fff176, #fbc02d, #fff176);
   background-size: 200% auto;
   color: transparent;
   background-clip: text;
